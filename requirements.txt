@@ -1,0 +1,11 @@
+django==4.1.2
+django-ninja
+django-ninja-extra
+django-ninja-jwt
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+passlib
+bcrypt
+jose
+pydantic[email]
